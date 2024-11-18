@@ -6,6 +6,6 @@
 - 💞️ I’m looking forward to one day participating in the creation of an ambitious laptop/smartphone application project  
 - 📫 How to reach me -> through my student email address  
 - ⚡ Fun fact: I never thought I would like coding this much; now I’m eager to learn more every day
-- ⏳ Current goal : Archieve my Bachelor's degree and keep going with a Master of Science in Computer Science
+- ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
 
 
