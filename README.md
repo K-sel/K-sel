@@ -1,4 +1,4 @@
-***Ksel in 6 lines***
+***K-sel in 6 lines***
 ---
 - 👋 Hi, I’m @K-sel  
 - 👀 I’m interested in Computer Science, History, Reading, Cosmology & Social interactions
