@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I never thought I would like coding this much; now I’m eager to learn more every day
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
 
-****Personnal Projets : 
+---
+
+****Personnal Projets :**** 
 - **Product-List :** React products list with a controlled field searchbar. [see repo](https://github.com/K-sel/product-list)
 - **Deploy.sh :** Shell scripting automation for netlify deployment with git. [see repo](https://github.com/K-sel/deploy.sh)
 - **The Dialog Game :** A Java textual game coded to run in a shell, the gameplay a RP where you have to discover items and solve enigmas in order to unlock new locations in the map and rare items. [see repo](https://github.com/K-sel/TheDialogGame)
