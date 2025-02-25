@@ -8,8 +8,8 @@
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
 
 Personnal Projets : 
-- React products list with a controlled field searchbar : see repo
-- Shell scripting automation for netlify deployment with git : see repo
-- 
+- [**Product-List](https://github.com/K-sel/product-list): ** React products list with a controlled field searchbar.
+- [**Deploy.sh :**](https://github.com/K-sel/deploy.sh) Shell scripting automation for netlify deployment with git.
+- [**The Dialog Game :**](https://github.com/K-sel/TheDialogGame) A Java textual game coded to run in a shell, the gameplay a RP where you have to discover items and solve enigmas in order to unlock new locations in the map and rare items. 
 
 
