@@ -5,14 +5,14 @@
 - 💞️ I’m looking forward to one day participating in the creation of an ambitious laptop/smartphone application project  
 - ⚡ Fun fact: I never thought I would like coding this much; now I’m eager to learn more every day
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
-- 📍 Switzerland based, speaking natively french 🇫🇷, and C1-2 English 🇬🇧!
+- 📍 Switzerland based, speaking natively french 🇫🇷, and C1-2 English 🇬🇧 !
 
 --- 
 
 ## 🚀 My Projects
 Passionate about development, I actively dedicate my free time to creating projects that help me refine my technical skills. Explore my pinned repositories to discover my most significant work! Your feedback is valuable - feel free to share any advice or suggestions on my projects.
 
-Do you have a project idea? I'm enthusiastic about collaborating on real-world applications - reach out to discuss!
+Do you have a project idea ? I'm enthusiastic about collaborating on real-world applications - reach out to discuss!
 
 ---
 
