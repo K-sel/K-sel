@@ -7,14 +7,12 @@
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
 - 📍 Switzerland based, speaking natively french 🇫🇷, and C1-2 English 🇬🇧 !
 
---- 
 
 ## 🚀 My Projects
 Passionate about development, I actively dedicate my free time to creating projects that help me refine my technical skills. Explore my pinned repositories to discover my most significant work! Your feedback is valuable - feel free to share any advice or suggestions on my projects.
 
 Do you have a project idea ? I'm enthusiastic about collaborating on real-world applications - reach out to discuss!
 
----
 
 ## 💼 Open to Opportunities
 Actively seeking a development internship, I'm ready to put my skills and motivation to work for your team. If my profile matches your needs, I would be delighted to discuss a potential collaboration!
