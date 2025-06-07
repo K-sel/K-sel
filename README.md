@@ -1,4 +1,4 @@
-## K-sel in 7 lines
+## K-sel in a nutshell
 - 👋 Hi, I’m @K-sel  
 - 👀 I’m interested in Computer Science, History, Reading, Cosmology & Social interactions
 - 🌱 I’m currently learning full-stack development through my Media Engineering Bachelor's degree  
