@@ -7,7 +7,7 @@
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
 - 📍 Switzerland based, speaking natively french 🇫🇷, and C1 English 🇬🇧 !
 - 🤖 Coding languages : JavaScript/Typescrit, PHP, Java, HTML, CSS, Python and C.
-- 🎓 GPA so far 5.25/6 (CH) - 3.65/4 (US)
+- 🎓 GPA so far 5.3/6 (CH) - 3.65/4 (US)
 
 
 ## 🚀 My Projects
