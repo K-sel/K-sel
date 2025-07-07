@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning full-stack development through my Media Engineering Bachelor's degree  
 - 💞️ I’m looking forward to one day participating in the creation of an ambitious laptop/smartphone application project  
 - ⚡ Fun fact: I never thought I would like coding this much; now I’m eager to learn more every day
-- ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science
+- ⏳ Current goal : Archieve my Bachelor's degree and keep going with a MSc in Computer Science or Business Information Systems
 - 📍 Switzerland based, speaking natively french 🇫🇷, and C1 English 🇬🇧 !
 - 🤖 Coding languages : JavaScript/Typescrit, PHP, Java, HTML, CSS, Python and C.
 - 🎓 GPA so far 5.35/6 (CH) - 3.65/4 (US)
