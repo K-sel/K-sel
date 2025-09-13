@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I never thought I would like coding this much; now I’m eager to learn more every day
 - ⏳ Current goal : Archieve my Bachelor's degree and keep going with a Master of science
 - 📍 Switzerland based, speaking natively french 🇫🇷, and C1 English 🇬🇧 !
-- 🤖 Coding languages : JavaScript/Typescrit, PHP, Java, HTML, CSS, Python and C.
+- 🤖 Coding skills : JavaScript/Typescrit, PHP, Java, HTML/CSS, Vue.js, Laravel - Knowledge in Python and C.
 - 🎓 GPA so far 5.35/6 (CH) - 3.65/4 (US)
 
 
